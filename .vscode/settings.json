@@ -10,6 +10,7 @@
         "xmemory": "cpp",
         "xstring": "cpp",
         "xutility": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "string": "cpp"
     }
 }
