@@ -12,6 +12,13 @@
         "xutility": "cpp",
         "ostream": "cpp",
         "string": "cpp",
-        "xlocale": "cpp"
+        "xlocale": "cpp",
+        "array": "cpp",
+        "atomic": "cpp",
+        "map": "cpp",
+        "type_traits": "cpp",
+        "xtr1common": "cpp",
+        "xtree": "cpp",
+        "utility": "cpp"
     }
 }
