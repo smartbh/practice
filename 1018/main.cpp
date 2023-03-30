@@ -59,7 +59,7 @@ int main()
 {
     int N,M;
     int whiteMin,blackMin = 0;
-    int answer = 9999999999;
+    int answer = 9999999;
     cin >> N >> M;
 
     for(int i = 0; i< N; i++)
